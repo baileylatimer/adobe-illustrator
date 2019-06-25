@@ -47,4 +47,4 @@ I love finding new awesome tools and apps. If you have a favorite tool or app th
 
 You can support me on [Patreon](https://www.patreon.com/latimerdesign) or look into [other projects](https://latimer.me) I shared.
 
-[![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/latimer2k)
+[![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE)
