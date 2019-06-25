@@ -2,8 +2,6 @@
 
 > List of tools, tips, and tricks that make my design flow easier
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/desktop.png)
-
 ##### Contents
 
 - [Templates](#templates)
