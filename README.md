@@ -1,6 +1,6 @@
-# My world of Design [![Thanks](http://bit.ly/saythankss)](https://patreon.com/latimerdesign)
+# Illustrator God Mode [![Thanks](http://bit.ly/saythankss)](https://patreon.com/latimerdesign)
 
-> List of tools, tips, and tricks that make my design flow easier
+> List of tools, tips, and tricks that make my Illustrator design flow easier
 
 ##### Contents
 - [Plugins](#plugins)
