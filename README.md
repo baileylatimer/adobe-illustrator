@@ -17,50 +17,56 @@ I use plugins to speed up my workflow. Below are the ones I love and use on a da
 
 
 
-### [Astute Graphics]
+### Astute Graphics
 
 #### [Vector Scribe v3](https://astutegraphics.com/software/vectorscribe/) - Vector Editing, Shapes, Corners + Measure
 
 - This plugin allows you to easily remove points, extend paths, and much more. I use this everyday.
 
-<img src="https://astutegraphics.com/wp-content/uploads/2016/03/Smart-point-removal-compressed.gif" width="700" alt="img">
-
+<p align="center">
+<img src="https://astutegraphics.com/wp-content/uploads/2016/03/Smart-point-removal-compressed.gif" width="500" alt="img" >
+</p>
 
 
 #### [ColliderScribe v2](https://astutegraphics.com/software/colliderscribe/) - Align + Scatter + Snap to Objects
 
 - My favorite feature is the Snap to Collision tool, which lets you snap objects together. I often use it as a replacement for the Selection tool.
 
-<img src="https://astutegraphics.com/wp-content/uploads/2015/06/software-cs-rotate-at-collision1.gif" width="700" alt="img">
-
+<p align="center">
+<img src="https://astutegraphics.com/wp-content/uploads/2015/06/software-cs-rotate-at-collision1.gif" width="500" alt="img">
+</p>
 
 #### [Phantasm v4](https://astutegraphics.com/software/phantasm/) - Vector Halftones, Colour Effects + Filters
 
 - Phantasm allows me to make quick photo edits without leaving Illustrator. I primarily use it to desaturate images.
 
-<img src="https://astutegraphics.com/wp-content/uploads/2018/04/Phantasm-animated-hue-change-panel.gif" width="700" alt="img">
-
+<p align="center">
+<img src="https://astutegraphics.com/wp-content/uploads/2018/04/Phantasm-animated-hue-change-panel.gif" width="500" alt="img">
+</p>
 
 #### [MirrorMe](https://astutegraphics.com/software/mirrorme/) - Live Symmetry
 
 - Ah.. another tool that SHOULD be native to Illustrator. I use this for logos, badges, and more.
 
-<img src="https://www.astutegraphics.com/wp-content/uploads/2013/07/software-mm-layer1.gif" width="700" alt="img">'
-
+<p align="center">
+<img src="https://www.astutegraphics.com/wp-content/uploads/2013/07/software-mm-layer1.gif" width="500" alt="img">'
+</p>
 
 #### [InkScribe](https://astutegraphics.com/software/inkscribe/) - Precise Path Making
 
 - InkScribe is a better and more intuitive pen tool. I use this everyday.
 
-<img src="https://astutegraphics.com/wp-content/uploads/2013/03/software-is-distance-constraint1.gif" width="700" alt="img">
-
+<p align="center">
+<img src="https://astutegraphics.com/wp-content/uploads/2013/03/software-is-distance-constraint1.gif" width="500" alt="img">
+</p>
 
 #### [DirectPrefs (Free)](https://astutegraphics.com/software/inkscribe/) - Increments, Angles, Guides
 
 - DirectPrefs offers a quick way to change Keyboard Increments. I often use it to increments to 0.001px for precise work. Oh and it's like, totally free.
 
-<img src="https://astutegraphics.com/wp-content/uploads/2016/10/DirectPrefs-panel.gif" width="700" alt="img">
-
+<p align="center">
+<img src="https://astutegraphics.com/wp-content/uploads/2016/10/DirectPrefs-panel.gif" width="500" alt="img">
+</p>
 
 
 
